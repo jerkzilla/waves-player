@@ -65,11 +65,12 @@ function chillHop() {
       name: "5 Am",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/10/0e5bb63f838ff92eeac142aae944e9f678df13c9-300x300.jpg",
-      id: uuidv4(),
-      active: false,
-      color: ["#163160", "#CB4A77"],
       artist: "Ruck P, Shucko",
       audio: "https://mp3.chillhop.com/serve.php/?mp3=10309",
+
+      color: ["#163160", "#CB4A77"],
+      id: uuidv4(),
+      active: false,
     },
   ];
 }
