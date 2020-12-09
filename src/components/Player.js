@@ -1,4 +1,5 @@
 import React from "react";
+// import other useStatements in top line
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faPlay,
