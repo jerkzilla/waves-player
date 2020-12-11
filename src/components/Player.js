@@ -1,6 +1,7 @@
 import React, { useEffect } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { playAudio } from "../util";
+// checking status
 import {
   faPlay,
   faAngleLeft,
